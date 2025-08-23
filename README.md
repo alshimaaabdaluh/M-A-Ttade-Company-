@@ -1,4 +1,4 @@
-<span style="color:red"><h1>Digital Marketing Specialist GraduationGroup</h1></span>
+<h1>Digital Marketing Specialist GraduationGroup</h1>
 # M-A-Ttade-Company- <br>
 شركة لتوريد خامات البلاستيك و كل خامات التغليف <br>
 ------
