@@ -1,6 +1,7 @@
 <h1>Digital Marketing Specialist Graduation Group</h1>
 # M-A-Ttade-Company- <br>
-شركة لتوريد خامات البلاستيك و كل خامات التغليف <br>
+شركة لتوريد خامات البلاستيك و كل خامات التغليف 
+وهي شركة تأسست بهدف توفير مواد تغليف عالية الجودة لكل أنواع الأنشطة التجارية في السوق المصري، بجودة ثابتة يقدر يعتمد عليها أصحاب البيزنس.<br>
 ------
 <h3>presentation link:-</h3>
 https://drive.google.com/file/d/1NbVvWG3EGXVTmvMxgilSXqkCOfFXgxJ_/view?usp=drivesdk <br>
